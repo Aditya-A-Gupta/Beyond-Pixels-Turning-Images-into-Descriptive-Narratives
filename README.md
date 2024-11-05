@@ -1,6 +1,6 @@
 # Beyond-Pixels-Turning-Images-into-Descriptive-Narratives
 ## Week 1
-The main ojective of this week is to learn about basic Artificial Neural Networks and the fundamentals of optimisers. We'll be using either pytorch, keras or tensorflow for the implementaion of neural nets.
+The main objective of this week is to learn about basic Artificial Neural Networks and the fundamentals of optimisers. We'll be using either pytorch, keras or tensorflow for the implementaion of neural nets.
 Don't spend too much time on pytorch syntax.
 ### Resources:
 - Basics of Neural Networks:
